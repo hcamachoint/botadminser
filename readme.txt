@@ -5,7 +5,7 @@ $ sudo apt update
 $ sudo apt-get install supervisor
 $ sudo supervisord
 
-$ sudo mkdir /var/log/telebotpy
+$ sudo mkdir /var/log/botadminser
 $ sudo cp main.conf /etc/supervisor/conf.d/
 
 $ sudo supervisorctl reread
